@@ -1,6 +1,7 @@
 # script-ll-2
-![script-ll](https://github.com/vs-123/script-ll-2/blob/main/images/LL-icon.png)
-An improved version of my original ![script-ll](https://github.com/vs-123/script-ll) lined-language
+![script-ll](https://github.com/vs-123/script-ll-2/blob/main/img/LL-icon.png)
+
+An improved version of my original [script-ll](https://github.com/vs-123/script-ll) lined-language
 
 ## What's improved?
 - Better errors
